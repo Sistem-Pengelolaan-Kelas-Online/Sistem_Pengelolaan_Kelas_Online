@@ -85,7 +85,46 @@ Flowchart alur utama aplikasi KelasKu akan ditambahkan setelah proses pembuatan 
 
 # Screenshot Output
 
-Screenshot akan ditambahkan setelah pengujian program selesai. Screenshot mencakup tampilan menu utama, proses registrasi dan login, serta fitur pengelolaan data kelas.
+## Menu Utama
+
+<img width="561" height="240" alt="image" src="https://github.com/user-attachments/assets/02df237f-c9f2-4d8d-af54-d736a3308775" />
+
+
+Menu utama menyediakan pilihan login,registrasi dan keluar dari aplikasi
+
+## Registrasi dan Login
+
+<img width="340" height="152" alt="Screenshot 2026-10-19 000631" src="https://github.com/user-attachments/assets/ad6b5a74-d263-4cb1-8fcf-18f59124279a" />
+
+-
+
+<img width="358" height="257" alt="Screenshot 2026-10-19 000656" src="https://github.com/user-attachments/assets/e281f3f0-c6a0-477e-aa12-438eef82551f" />
+
+Pengguna dapat membuat akun baru dengan username yang unik,kemudian login menggunakan akun yang telah di daftarkan
+
+## Menu admin dan Data kelas
+
+<img width="565" height="341" alt="image" src="https://github.com/user-attachments/assets/95ca50a0-19a4-4c67-9a7a-5b3ab9778fb8" />
+
+
+<img width="582" height="377" alt="image" src="https://github.com/user-attachments/assets/5098b026-d773-46d4-ac91-1ea4a5a9f1d9" />
+
+Admin dapat melihat data kelas serta mengakses fitur tambah,ubah,dan hapus kelas
+
+## Menu user
+
+<img width="255" height="225" alt="image" src="https://github.com/user-attachments/assets/03d5e455-8308-49f0-b415-77f3f0352103" />
+
+User dapat melihat daftar kelas dan keluar dari aplikasi
+
+## Penyimpanan data
+
+<img width="741" height="840" alt="image" src="https://github.com/user-attachments/assets/65ac2f7c-1c5f-422f-9686-d85d333c924e" />
+
+
+<img width="741" height="840" alt="image" src="https://github.com/user-attachments/assets/2177e827-337c-43c2-9c6d-eae61b3aadcd" />
+
+Data disimpan dalam format JSON sehingga dapat digunakan kembali ketika program dijalankan ulang
 
 # Pengembangan Selanjutnya
 
