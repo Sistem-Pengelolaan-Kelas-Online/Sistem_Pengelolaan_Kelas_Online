@@ -20,6 +20,8 @@ No.| Nama Anggota               | Peran
 
 # Fitur Aplikasi
 
+# Fitur Aplikasi
+
 ## Admin
 - Melihat daftar kelas.
 - Menambahkan data kelas.
@@ -27,20 +29,18 @@ No.| Nama Anggota               | Peran
 - Menghapus data kelas.
 
 ## User
-
-- Registrasi akun.
-- Login sebagai user.
 - Melihat daftar kelas.
-- Logout dari aplikasi.
+- Top Up Saldo.
+- Beli Kelas.
+- Melihat Daftar Kelas Yang Sudah di Beli.
 
 ## Penyimpanan Data
-
 - Data akun disimpan dalam file "akun.json".
 - Data kelas disimpan dalam file "kelas.json".
+- Sata Invoice disimpan dalam file "invoice.json".
 - Data diperbarui secara otomatis ketika terdapat perubahan melalui fitur yang tersedia.
 
 ## Teknologi dan Library
-
 - Python — Bahasa pemrograman utama.
 - JSON — Format penyimpanan data.
 - PrettyTable — Menampilkan data kelas dalam bentuk tabel.
@@ -50,28 +50,23 @@ No.| Nama Anggota               | Peran
 
 # Cara Menjalankan Program
 
-1. Pastikan Python telah terinstal di perangkat.
+## User
+1. 
 
-2. Instal library yang dibutuhkan dengan perintah berikut:
-   
-   pip install prettytable pwinput
-
-3. Buka terminal pada folder proyek.
-
-4. Jalankan program menggunakan perintah:
-   
-   python main.py
-
-5. Login menggunakan akun admin bawaan:
-   
-   - Username: "admin"
-   - Password: "admin123"
+## Admin
+1. 
 
 # Flowchart
 
-Flowchart alur utama aplikasi KelasKu akan ditambahkan setelah proses pembuatan flowchart selesai.
+## Halaman Login
+<img width="1427" height="934" alt="Halaman Login drawio" src="https://github.com/user-attachments/assets/f6f6ada9-f032-48be-b35a-15eabedc5579" />
 
-# Screenshot Output
+Berikut ini adalah flowchart alur dimana saat program ini di buka langsung menampilkan menu dimana terdapat Login, Registrasi, Keluar dari program.
+
+## Halaman User(murid)
+<img width="1900" height="1380" alt="halaman admin drawio (1)" src="https://github.com/user-attachments/assets/2b09527c-53c1-4361-ac4a-502ea6682ff9" />
+
+Berikut ini adalah flowchart alur dimana jika login sebagai user(murid) yang ada alur dimana user(murid) bisa memilih Melihat Daftar Kelas, Top Up Saldo, Beli Kelas, Melihat Kelas Yang Di Beli, Logout.
 
 ## Menu Utama
 
