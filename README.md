@@ -20,8 +20,6 @@ No.| Nama Anggota               | Peran
 
 # Fitur Aplikasi
 
-# Fitur Aplikasi
-
 ## Admin
 - Melihat daftar kelas.
 - Menambahkan data kelas.
