@@ -1,12 +1,4 @@
-# Sistem_Pengelolaan_Kelas_Online
-
-## KelasKu — Sistem Pengelolaan Kelas Online
-
-# Tema Proyek
-
-## Sistem Pengelolaan Kelas Online.
-
-### Deskripsi
+# Sistem_Pengelolaan_Kelas_Online (KelasKu)
 
 KelasKu merupakan aplikasi berbasis Command Line Interface (CLI) yang dikembangkan menggunakan bahasa pemrograman Python untuk mengelola data kelas secara sederhana. Aplikasi ini memiliki sistem registrasi, login, pembagian hak akses pengguna, serta pengelolaan data kelas dengan penyimpanan menggunakan file JSON.
 
@@ -24,15 +16,11 @@ No.| Nama Anggota               | Peran
 
 3  | Nama Anggota 3             | Penyusunan Laporan
 
-4  | Nama Anggota 4             | Sesuaikan dengan pembagian tugas kelompok
-
-
+4  | Bintang Dzikri Al Bukhari 2609116030            | Pembuatan Flowchart dan Revisi Github
 
 # Fitur Aplikasi
 
 ## Admin
-
-- Login sebagai admin.
 - Melihat daftar kelas.
 - Menambahkan data kelas.
 - Mengubah data kelas.
