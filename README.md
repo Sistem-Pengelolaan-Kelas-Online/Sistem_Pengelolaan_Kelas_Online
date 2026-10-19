@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk menerapkan materi dasar pemrograman Python dalam sebu
 
 No.| Nama Anggota               | Peran
 
-1  | Fery Sugiantoro 2609116039 | Koordinator dan Pengembangan Program serta Mengisi Github
+1  | Fery Sugiantoro 2609116039 | Sebagai Ketua,Koordinator,Pengembangan Program serta Mengisi Github
 
 2  | Nama Anggota 2             | Pembuatan Flowchart
 
