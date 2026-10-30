@@ -8,15 +8,15 @@ Proyek ini bertujuan untuk menerapkan materi dasar pemrograman Python dalam sebu
 
 ### Anggota Kelompok dan Pembagian Tugas
 
-No.| Nama Anggota               | Peran
+No.| Nama Anggota                                | Peran
 
-1  | Fery Sugiantoro 2609116039 | Sebagai Ketua,Koordinator,Pengembangan Program serta Mengisi Github
+1  | Fery Sugiantoro 2609116039                  | Sebagai Ketua,Koordinator,Pengembangan Program serta Mengisi Github
 
-2  | Nama Anggota 2             | Pembuatan Flowchart
+2  | Ahmad Raihan Sangkan Ladunni 2609116037     | pengembangan laporan, Penyusunan Laporan
 
-3  | Nama Anggota 3             | Penyusunan Laporan
+3  | Nama Anggota 3                              | Penyusunan Laporan
 
-4  | Bintang Dzikri Al Bukhari 2609116030            | Pembuatan Flowchart dan Revisi Github
+4  | Bintang Dzikri Al Bukhari 2609116030        | Pembuatan Flowchart dan Revisi Github
 
 # Fitur Aplikasi
 
