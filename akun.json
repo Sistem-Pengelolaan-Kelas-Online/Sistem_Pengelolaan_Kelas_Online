@@ -3,24 +3,50 @@
         "username": "admin",
         "password": "admin123",
         "role": "admin",
-        "saldo": 0
+        "saldo": 0,
+        "kelas_dibeli": []
     },
     {
         "username": "hylos",
         "password": "hylos",
         "role": "user",
-        "saldo": 0
+        "saldo": 832223,
+        "kelas_dibeli": [
+            2,
+            4
+        ]
     },
     {
         "username": "lelouch",
         "password": "beta",
         "role": "user",
-        "saldo": 0
+        "saldo": 5025223,
+        "kelas_dibeli": [
+            2,
+            4
+        ]
     },
     {
         "username": "kaiser",
         "password": "kaiser",
         "role": "user",
-        "saldo": 0
+        "saldo": 0,
+        "kelas_dibeli": []
+    },
+    {
+        "username": "Arnold Hein",
+        "password": "arnold",
+        "role": "user",
+        "saldo": 0,
+        "kelas_dibeli": []
+    },
+    {
+        "username": "llll",
+        "password": "llll",
+        "role": "user",
+        "saldo": 9882000,
+        "kelas_dibeli": [
+            6
+        ]
     }
 ]

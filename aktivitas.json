@@ -1,0 +1,38 @@
+[
+    {
+        "username": "admin",
+        "aktivitas": "Login",
+        "keterangan": "Berhasil masuk ke sistem",
+        "waktu": 1793275386.7878156
+    },
+    {
+        "username": "lelouch",
+        "aktivitas": "Login",
+        "keterangan": "Berhasil masuk ke sistem",
+        "waktu": 1793275437.2427287
+    },
+    {
+        "username": "lelouch",
+        "aktivitas": "Top up",
+        "keterangan": "Rp200.000 atau 200 C",
+        "waktu": 1793275468.640769
+    },
+    {
+        "username": "lelouch",
+        "aktivitas": "Login",
+        "keterangan": "Berhasil masuk ke sistem",
+        "waktu": 1793278129.57288
+    },
+    {
+        "username": "lelouch",
+        "aktivitas": "Pembelian kelas",
+        "keterangan": "Sistem Informasi - INV139863",
+        "waktu": 1793278156.8184483
+    },
+    {
+        "username": "lelouch",
+        "aktivitas": "Refund berhasil",
+        "keterangan": "INV139863 - Sistem Informasi",
+        "waktu": 1793278192.4510474
+    }
+]

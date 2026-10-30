@@ -1,32 +1,32 @@
 [
     {
-        "id": 1,
-        "nama": "Dasar Pemrograman",
-        "pengajar": "Admin",
-        "biaya": 0
-    },
-    {
         "id": 2,
         "nama": "Basis Data",
-        "pengajar": "Admin",
-        "biaya": 0
+        "pengajar": "Royyan Mubarrok S.Kom, M.Kom",
+        "biaya": 160000
     },
     {
         "id": 3,
         "nama": "Algoritma",
-        "pengajar": "Admin",
-        "biaya": 0
+        "pengajar": "Prof. Fery Sugiantoro S.Kom, M.Kom",
+        "biaya": 299999
     },
     {
         "id": 4,
         "nama": "Jaringan Komputer",
-        "pengajar": "Admin",
-        "biaya": 0
+        "pengajar": "Debora Lintang Apsari S.Kom, M.T",
+        "biaya": 177777
     },
     {
         "id": 5,
         "nama": "Sistem Informasi",
-        "pengajar": "Admin",
-        "biaya": 0
+        "pengajar": "Omar Zahraan S.Kom, M.Kom",
+        "biaya": 170000
+    },
+    {
+        "id": 6,
+        "nama": "Bahasa Inggris",
+        "pengajar": "Kusmadi S.Kom, M.Kom",
+        "biaya": 120000
     }
 ]
