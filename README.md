@@ -22,21 +22,33 @@ No.| Nama Anggota                                | Peran
 
 ## Admin
 - Melihat daftar kelas.
-- Menambahkan data kelas.
-- Mengubah data kelas.
-- Menghapus data kelas.
-- Lihat semua akun.
-- Riwayat pembelian.
-- Riwayat topup.
-- Riwayat refund.
-- Semua riwayat.
+- Menambahkan kelas baru.
+- Mengubah informasi kelas.
+- Menghapus kelas.
+- Melihat seluruh akun pengguna.
+- Melihat riwayat pembelian.
+- Melihat riwayat top up.
+- Melihat riwayat refund.
+- Melihat seluruh aktivitas pengguna.
 
 ## User
+- Melakukan registrasi akun.
+- Login ke dalam sistem.
 - Melihat daftar kelas.
-- Top Up Saldo.
-- Beli Kelas.
-- Melihat Daftar Kelas Yang Sudah di Beli.
-- Refund.
+- Melakukan top up saldo menggunakan Rupiah.
+- Membeli kelas menggunakan saldo C.
+- Melihat kelas yang telah dibeli.
+- Mengajukan refund dengan batas waktu 45 menit setelah pembelian.
+- Melihat saldo akun.
+
+## Sistem Transaksi
+
+- Menggunakan saldo C sebagai alat pembayaran dalam program.
+- Konversi saldo berdasarkan ketentuan Rp1.000 = 1 C.
+- Batas minimum top up Rp1.000.
+- Batas maksimum top up Rp100.000.000.
+- Menyimpan riwayat pembelian, top up, dan refund.
+- Mengembalikan saldo C apabila pengajuan refund berhasil dan memenuhi ketentuan.
 
 ## Penyimpanan Data
 - Data akun disimpan dalam file "akun.json".
