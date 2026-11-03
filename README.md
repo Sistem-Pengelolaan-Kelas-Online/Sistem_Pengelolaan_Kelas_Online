@@ -25,6 +25,11 @@ No.| Nama Anggota                                | Peran
 - Menambahkan data kelas.
 - Mengubah data kelas.
 - Menghapus data kelas.
+- lihat semua akun.
+- riwayat pembelian.
+- riwayat topup.
+- riwayat refund.
+- semua riwayat.
 
 ## User
 - Melihat daftar kelas.
