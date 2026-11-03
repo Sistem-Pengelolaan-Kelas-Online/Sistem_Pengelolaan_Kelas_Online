@@ -51,9 +51,9 @@ Proyek ini bertujuan untuk menerapkan materi dasar pemrograman Python dalam sebu
 - Data akun disimpan dalam file "akun.json".
 - Data kelas disimpan dalam file "kelas.json".
 - Data Invoice disimpan dalam file "invoice.json".
-- Data aktivitas disimpan dalam file "aktivitas.json"
-- Data refund disimpan dalam file "refund.json"
-- Data top up disimpan dalam file "topup.json"
+- Data aktivitas disimpan dalam file "aktivitas.json".
+- Data refund disimpan dalam file "refund.json".
+- Data top up disimpan dalam file "topup.json".
 - Data diperbarui secara otomatis ketika terdapat perubahan melalui fitur yang tersedia.
 
 ## Teknologi dan Library
