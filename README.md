@@ -108,7 +108,7 @@ Menu utama menyediakan pilihan login, registrasi dan keluar dari aplikasi.
 
 <img width="358" height="257" alt="Screenshot 2026-10-19 000656" src="https://github.com/user-attachments/assets/e281f3f0-c6a0-477e-aa12-438eef82551f" />
 
-Pengguna dapat membuat akun baru dengan username dan password,kemudian login menggunakan akun yang telah di daftarkan
+Pengguna dapat membuat akun baru dengan username dan password, kemudian login menggunakan akun yang telah di daftarkan.
 
 ## Menu Admin
 <img width="298" height="272" alt="Screenshot 2026-11-03 193306" src="https://github.com/user-attachments/assets/f9d81d3e-005e-496f-8a53-23cc54a7e0f0" />
