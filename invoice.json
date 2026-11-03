@@ -1,0 +1,49 @@
+[
+    {
+        "invoice_id": 44391,
+        "username": "hylos",
+        "nama_kelas": "Basis Data",
+        "biaya": 0,
+        "waktu": "2026-10-26 04:13:47"
+    },
+    {
+        "invoice_id": 52960,
+        "username": "lelouch",
+        "nama_kelas": "Basis Data",
+        "biaya": 0,
+        "waktu": "2026-10-27 10:30:42"
+    },
+    {
+        "invoice_id": 49420,
+        "username": "lelouch",
+        "nama_kelas": "Jaringan Komputer",
+        "biaya": 177777,
+        "waktu": "2026-10-27 10:53:06"
+    },
+    {
+        "invoice_id": 86366,
+        "username": "hylos",
+        "nama_kelas": "Jaringan Komputer",
+        "biaya": 177777,
+        "waktu": "27-10-2026 12:14:02"
+    },
+    {
+        "invoice_id": 90911,
+        "username": "llll",
+        "nama_kelas": "Bahasa Inggris",
+        "biaya": 120000,
+        "waktu": "27-10-2026 12:41:01"
+    },
+    {
+        "id": "INV139863",
+        "username": "lelouch",
+        "kelas_id": 5,
+        "nama_kelas": "Sistem Informasi",
+        "biaya": 170000,
+        "waktu_beli": 1793278156.8043258,
+        "status": "Direfund",
+        "status_refund": "Berhasil",
+        "alasan_refund": "Kelas ini tidak cocok karena dosennya omar",
+        "waktu_refund": 1793278192.4339647
+    }
+]
