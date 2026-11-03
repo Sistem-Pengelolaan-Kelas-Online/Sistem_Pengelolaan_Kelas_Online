@@ -25,17 +25,19 @@ No.| Nama Anggota                                | Peran
 - Menambahkan data kelas.
 - Mengubah data kelas.
 - Menghapus data kelas.
-- lihat semua akun.
-- riwayat pembelian.
-- riwayat topup.
-- riwayat refund.
-- semua riwayat.
+- Lihat semua akun.
+- Riwayat pembelian.
+- Riwayat topup.
+- Riwayat refund.
+- Semua riwayat.
 
 ## User
 - Melihat daftar kelas.
 - Top Up Saldo.
 - Beli Kelas.
 - Melihat Daftar Kelas Yang Sudah di Beli.
+- Refund.
+- 
 
 ## Penyimpanan Data
 - Data akun disimpan dalam file "akun.json".
