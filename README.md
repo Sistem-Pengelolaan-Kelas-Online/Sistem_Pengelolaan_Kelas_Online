@@ -41,7 +41,9 @@ No.| Nama Anggota                                | Peran
 ## Penyimpanan Data
 - Data akun disimpan dalam file "akun.json".
 - Data kelas disimpan dalam file "kelas.json".
-- Sata Invoice disimpan dalam file "invoice.json".
+- Data Invoice disimpan dalam file "invoice.json".
+- Data aktivitas semua akun di simpan di "aktivitas.json"
+- 
 - Data diperbarui secara otomatis ketika terdapat perubahan melalui fitur yang tersedia.
 
 ## Teknologi dan Library
