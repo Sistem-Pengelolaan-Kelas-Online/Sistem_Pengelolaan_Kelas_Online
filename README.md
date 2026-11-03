@@ -56,10 +56,12 @@ No.| Nama Anggota                                | Peran
 # Cara Menjalankan Program
 
 ## User
-1. 
+1. Masuk ke akun user
+2. Pilih menu yang ingin di pilh 
 
 ## Admin
-1. 
+1. Masuk ke menu admin
+2. Pilih menu admin yang inginn di pilih 
 
 # Flowchart
 
@@ -69,10 +71,16 @@ No.| Nama Anggota                                | Peran
 Berikut ini adalah flowchart alur dimana saat program ini di buka langsung menampilkan menu dimana terdapat Login, Registrasi, Keluar dari program.
 
 ## Halaman User(murid)
-<img width="1900" height="1380" alt="halaman admin drawio (1)" src="https://github.com/user-attachments/assets/2b09527c-53c1-4361-ac4a-502ea6682ff9" />
+<img width="2521" height="2466" alt="halaman user drawio (5)" src="https://github.com/user-attachments/assets/fa0db961-5ef1-47f7-8d0c-4b417e230c6f" />
+
 
 Berikut ini adalah flowchart alur dimana jika login sebagai user(murid) yang ada alur dimana user(murid) bisa memilih Melihat Daftar Kelas, Top Up Saldo, Beli Kelas, Melihat Kelas Yang Di Beli, Logout.
 
+## Halamann Admin
+<img width="3436" height="1652" alt="halaman admin drawio (5)" src="https://github.com/user-attachments/assets/e6307893-489c-4766-851e-654c459e6673" />
+
+
+Berikut ini adalah flowchart alur dimana jika login sebagai admin yang dimana bisa memilih menu Melihat kelas, Tambah akelas, Ubah kelas, Hapus kelas, Lihat semua akun, Riwaayat pembelian, Riwayat top up, riwayat refund, Semua riwayat.
 ## Menu Utama
 
 <img width="561" height="240" alt="image" src="https://github.com/user-attachments/assets/02df237f-c9f2-4d8d-af54-d736a3308775" />
