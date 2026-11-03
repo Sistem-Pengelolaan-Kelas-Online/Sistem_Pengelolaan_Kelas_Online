@@ -14,9 +14,9 @@ No.| Nama Anggota                                | Peran
 
 2  | Ahmad Raihan Sangkan Ladunni 2609116037     | pengembangan laporan, Penyusunan Laporan
 
-3  | Nama Anggota 3                              | Penyusunan Laporan
+3  | Bintang Dzikri Al Bukhari 2609116030        | Pembuatan Flowchart, Pengembang Github, Pengisi Github, Revisi Github
 
-4  | Bintang Dzikri Al Bukhari 2609116030        | Pembuatan Flowchart dan Revisi Github
+4  | Anggitha chrisiten Wulandari	2609116036     | pengembangan laporan, Penyusunan Laporan
 
 # Fitur Aplikasi
 
@@ -54,7 +54,7 @@ No.| Nama Anggota                                | Peran
 - pwinput — Menerima input kata sandi.
 - os — Mendukung pembersihan layar terminal.
 - time — Mengatur jeda waktu pada program.
-- random —
+- random — Untuk menghasilkan angka random yang diunakan untuk refund kelas
 
 # Cara Menjalankan Program
 
