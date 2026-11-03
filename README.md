@@ -98,7 +98,7 @@ Berikut ini adalah flowchart alur dimana jika login sebagai admin yang dimana bi
 
 <img width="561" height="240" alt="image" src="https://github.com/user-attachments/assets/02df237f-c9f2-4d8d-af54-d736a3308775" />
 
-Menu utama menyediakan pilihan login,registrasi dan keluar dari aplikasi
+Menu utama menyediakan pilihan login, registrasi dan keluar dari aplikasi.
 
 ## Registrasi dan Login
 
