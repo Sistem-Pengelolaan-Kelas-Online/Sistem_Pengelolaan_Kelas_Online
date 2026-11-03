@@ -63,7 +63,7 @@ Proyek ini bertujuan untuk menerapkan materi dasar pemrograman Python dalam sebu
 - pwinput — Menerima input kata sandi.
 - os — Mendukung pembersihan layar terminal.
 - time — Mengatur jeda waktu pada program.
-- random — Untuk menghasilkan angka random yang diunakan untuk refund kelas
+- random — Untuk menghasilkan angka random yang diunakan untuk refund kelas.
 
 # Cara Menjalankan Program
 
