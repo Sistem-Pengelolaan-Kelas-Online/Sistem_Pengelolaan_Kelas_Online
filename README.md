@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk menerapkan materi dasar pemrograman Python dalam sebu
 | 1   | Fery Sugiantoro                 | 2609116039 | Sebagai Ketua, koordinator, pengembangan program, dan pengelolaan GitHub |
 | 2   | Ahmad Raihan Sangkan Ladunni    | 2609116037 | Membantu pengembangan Program tahap awal dan penyusunan laporan  dan pengisian Github                          |
 | 3   | Bintang Dzikri Al Bukhari       | 2609116030 | Pembuatan flowchart, pengembangan, pengisian, dan revisi GitHub |
-| 4   | Anggitha Chrisiten Wulandari    | 2609116036 | Pengembangan, penyusunan laporan dan pengisian Github                          |
+| 4   | Anggitha Chrisiten Wulandari    | 2609116036 | Pengembangan laporan, penyusunan laporan dan pengisian Github                          |
 
 # Fitur Aplikasi
 
