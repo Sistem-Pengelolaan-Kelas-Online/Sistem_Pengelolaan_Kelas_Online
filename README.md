@@ -104,7 +104,7 @@ Pengguna dapat membuat akun baru dengan username dan password,kemudian login men
 ## Menu Admin
 <img width="298" height="272" alt="Screenshot 2026-11-03 193306" src="https://github.com/user-attachments/assets/f9d81d3e-005e-496f-8a53-23cc54a7e0f0" />
 
-Disini pengguna(admin) dapat melihat menu yang dapat digunakan untuk mengatur di program ini
+Disini pengguna(admin) dapat melihat menu yang dapat digunakan untuk mengatur di program ini.
 
 ## 1. Melihat Kelas
 <img width="692" height="267" alt="Screenshot 2026-11-03 193328" src="https://github.com/user-attachments/assets/36006780-bed4-43a1-85d8-b339b5d06e04" />
@@ -121,49 +121,66 @@ Disini admin dapat menambahkan pelajaran baru sekaligus pengajar pelajaran untuk
 
 Disini admin dapat mengubah kelas dengan memasuan id kelas, nama kelas, pengajar pengganti, dan harga.
 
-## 4.Hapus Kelas
+## 4. Hapus Kelas
 <img width="685" height="358" alt="Screenshot 2026-11-03 193616" src="https://github.com/user-attachments/assets/27befed6-3ef5-44e9-9321-a59a0c7661d4" />
 
 Disini admin dapat menghapus kelas.
 
-## Tampilkan Semua Akun
+## 5. Tampilkan Semua Akun
 <img width="402" height="311" alt="Screenshot 2026-11-03 193635" src="https://github.com/user-attachments/assets/3702e4b9-53b7-40e4-8a06-e6807a0f2777" />
+
 Disini admin dapat melihat akun yang sudah terregistrasi dari pengguna.
 
-## Riwayat Pembelian 
+## 6. Riwayat Pembelian 
 <img width="997" height="300" alt="Screenshot 2026-11-03 193659" src="https://github.com/user-attachments/assets/dcac0948-5caa-4cc5-9c1c-0ba6dacf5c46" />
 
 Disini admin dapat melihat seluruh riwayat pembelian yang telah dilakukan oleh user.
 
+## 7. Riwayat Top Up
 <img width="757" height="200" alt="Screenshot 2026-11-03 193725" src="https://github.com/user-attachments/assets/64325b61-f2e9-4473-adeb-b54f018375ab" />
 
+Disini admin dapat melihat seluruh riwayat Top Up yang telah dilakukan oleh user.
 
-
+## 8. Riwayat Refund
 <img width="1338" height="198" alt="Screenshot 2026-11-03 193808" src="https://github.com/user-attachments/assets/3b4b516e-b564-4316-b70b-263ac0b84bad" />
 
+Disini admin dapat melihat seluruh riwayat refund yang telah dilakukan oleh user.
 
+## 9. Semua Riwayat
 <img width="783" height="702" alt="Screenshot 2026-11-03 193835" src="https://github.com/user-attachments/assets/804c7818-ef82-48bf-beff-ec8d5de36c59" />
 
+Disini admin dapat melihat seluruh riwayat yang telah dilakukan oleh user baik membeli kelas, top up, refund.
 
+## Menu User 
 <img width="291" height="215" alt="Screenshot 2026-11-03 194013" src="https://github.com/user-attachments/assets/24869b6a-b765-4819-82b2-cbba7b1b7317" />
 
+Disini user dapat melihat menu yang dapat digunakan di program ini, dan tampilan ini user sudah termasuk menampilkan username dan saldo yang dimiliki oleh pengguna.
 
+## 1. Lihat daftar Kelas
 <img width="688" height="271" alt="Screenshot 2026-11-03 194032" src="https://github.com/user-attachments/assets/adeddf78-5f22-4d72-9286-3b401a1cfd6e" />
 
+Disini user dapat melihat kelas yang dapat dibeli.
 
-<img width="317" height="108" alt="Screenshot 2026-11-03 194110" src="https://github.com/user-attachments/assets/0d200417-4d7c-416d-9501-97f9d7aab11d" />
-
-
+## 2 Top Up
 <img width="395" height="270" alt="Screenshot 2026-11-03 194324" src="https://github.com/user-attachments/assets/d0d2118c-330f-46f1-b53c-734ad6701ded" />
 
+Disini user top up dari tunai ke coin.
 
+## 3 Beli Kelas
 <img width="687" height="607" alt="Screenshot 2026-11-03 194502" src="https://github.com/user-attachments/assets/cdd320ba-1697-4f07-bef9-d6e5abb83288" />
 
+Disini user dapat membeli kelas yang tersedia dengan saldo yang cukup.
 
+## 4. Kelas yang Dapat Dapat di Akses
 <img width="423" height="426" alt="Screenshot 2026-11-03 194523" src="https://github.com/user-attachments/assets/88aa2c25-a555-4ffc-ad5a-dcdf15f73182" />
 
+Disini user dapat melihat kelas yang sudah di beli atau di akses untuk di pelajari.
 
+## 5. Refund Kelas 
 <img width="516" height="402" alt="Screenshot 2026-11-03 194825" src="https://github.com/user-attachments/assets/1f221f36-9025-47a6-880f-ca9c4be0c6f1" />
+
+Disini user dapat mmelakukan refund untuk proses pengembalian dana karena merasa tidak cocok pada pelajaran tersebut. dan di refund sini ada batasan waktunya jika lebih dari 45 menit makan proses refund tidak akan bisa di ajukan.
+
 
 
 ---
