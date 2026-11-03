@@ -91,7 +91,7 @@ Berikut ini adalah flowchart alur dimana jika login sebagai user(murid) yang ada
 ## Halamann Admin
 <img width="3436" height="1652" alt="halaman admin drawio (5)" src="https://github.com/user-attachments/assets/e6307893-489c-4766-851e-654c459e6673" />
 
-Berikut ini adalah flowchart alur dimana jika login sebagai admin yang dimana bisa memilih menu Melihat kelas, Tambah akelas, Ubah kelas, Hapus kelas, Lihat semua akun, Riwaayat pembelian, Riwayat top up, riwayat refund, Semua riwayat.
+Berikut ini adalah flowchart alur dimana jika login sebagai admin yang dimana bisa memilih menu Melihat kelas, Tambah akelas, Ubah kelas, Hapus kelas, Lihat semua akun, Riwaayat pembelian, Riwayat top up, Riwayat refund, Semua riwayat.
 
 # Output Program
 ## Menu Utama
