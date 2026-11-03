@@ -37,7 +37,6 @@ No.| Nama Anggota                                | Peran
 - Beli Kelas.
 - Melihat Daftar Kelas Yang Sudah di Beli.
 - Refund.
-- 
 
 ## Penyimpanan Data
 - Data akun disimpan dalam file "akun.json".
@@ -79,8 +78,9 @@ Berikut ini adalah flowchart alur dimana jika login sebagai user(murid) yang ada
 ## Halamann Admin
 <img width="3436" height="1652" alt="halaman admin drawio (5)" src="https://github.com/user-attachments/assets/e6307893-489c-4766-851e-654c459e6673" />
 
-
 Berikut ini adalah flowchart alur dimana jika login sebagai admin yang dimana bisa memilih menu Melihat kelas, Tambah akelas, Ubah kelas, Hapus kelas, Lihat semua akun, Riwaayat pembelian, Riwayat top up, riwayat refund, Semua riwayat.
+
+# Output Program
 ## Menu Utama
 
 <img width="561" height="240" alt="image" src="https://github.com/user-attachments/assets/02df237f-c9f2-4d8d-af54-d736a3308775" />
