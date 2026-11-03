@@ -117,16 +117,26 @@ Disini admin dapat melihat semua kelas yang tersedia untuk user.
 Disini admin dapat menambahkan pelajaran baru sekaligus pengajar pelajaran untuk user.
 
 ## 3. Mengubah Kelas
+<img width="710" height="422" alt="WhatsApp Image 2026-11-03 at 19 12 24" src="https://github.com/user-attachments/assets/18bc9fa9-67e3-4de0-b496-f68aecc32cb4" />
+
+Disini admin dapat mengubah kelas dengan memasuan id kelas, nama kelas, pengajar pengganti, dan harga.
+
+## 4.Hapus Kelas
 <img width="685" height="358" alt="Screenshot 2026-11-03 193616" src="https://github.com/user-attachments/assets/27befed6-3ef5-44e9-9321-a59a0c7661d4" />
 
+Disini admin dapat menghapus kelas.
 
+## Tampilkan Semua Akun
 <img width="402" height="311" alt="Screenshot 2026-11-03 193635" src="https://github.com/user-attachments/assets/3702e4b9-53b7-40e4-8a06-e6807a0f2777" />
+Disini admin dapat melihat akun yang sudah terregistrasi dari pengguna.
 
-
+## Riwayat Pembelian 
 <img width="997" height="300" alt="Screenshot 2026-11-03 193659" src="https://github.com/user-attachments/assets/dcac0948-5caa-4cc5-9c1c-0ba6dacf5c46" />
 
+Disini admin dapat melihat seluruh riwayat pembelian yang telah dilakukan oleh user.
 
 <img width="757" height="200" alt="Screenshot 2026-11-03 193725" src="https://github.com/user-attachments/assets/64325b61-f2e9-4473-adeb-b54f018375ab" />
+
 
 
 <img width="1338" height="198" alt="Screenshot 2026-11-03 193808" src="https://github.com/user-attachments/assets/3b4b516e-b564-4316-b70b-263ac0b84bad" />
