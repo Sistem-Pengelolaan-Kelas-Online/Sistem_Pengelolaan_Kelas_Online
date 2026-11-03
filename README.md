@@ -54,6 +54,7 @@ No.| Nama Anggota                                | Peran
 - pwinput — Menerima input kata sandi.
 - os — Mendukung pembersihan layar terminal.
 - time — Mengatur jeda waktu pada program.
+- random —
 
 # Cara Menjalankan Program
 
