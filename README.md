@@ -6,17 +6,14 @@ KelasKu merupakan aplikasi berbasis Command Line Interface (CLI) yang dikembangk
 
 Proyek ini bertujuan untuk menerapkan materi dasar pemrograman Python dalam sebuah aplikasi, meliputi penggunaan struktur data, fungsi, percabangan, perulangan, autentikasi pengguna, operasi CRUD, serta penyimpanan dan pembaruan data menggunakan JSON.
 
-### Anggota Kelompok dan Pembagian Tugas
+## Anggota Kelompok dan Pembagian Tugas
 
-No.| Nama Anggota                                | Peran
-
-1  | Fery Sugiantoro 2609116039                  | Sebagai Ketua,Koordinator,Pengembangan Program serta Mengisi Github
-
-2  | Ahmad Raihan Sangkan Ladunni 2609116037     | pengembangan laporan, Penyusunan Laporan
-
-3  | Bintang Dzikri Al Bukhari 2609116030        | Pembuatan Flowchart, Pengembang Github, Pengisi Github, Revisi Github
-
-4  | Anggitha chrisiten Wulandari	2609116036     | pengembangan laporan, Penyusunan Laporan
+| No. | Nama Anggota                    | NIM        | Peran dan Tanggung Jawab                                      |
+|-----|---------------------------------|------------|---------------------------------------------------------------|
+| 1   | Fery Sugiantoro                 | 2609116039 | Sebagai Ketua, koordinator, pengembangan program, dan pengelolaan GitHub |
+| 2   | Ahmad Raihan Sangkan Ladunni    | 2609116037 | Membantu pengembangan Program dan penyusunan laporan  dan pengisian Github                          |
+| 3   | Bintang Dzikri Al Bukhari       | 2609116030 | Pembuatan flowchart, pengembangan, pengisian, dan revisi GitHub |
+| 4   | Anggitha Chrisiten Wulandari    | 2609116036 | Pengembangan, penyusunan laporan dan pengisian Github                          |
 
 # Fitur Aplikasi
 
